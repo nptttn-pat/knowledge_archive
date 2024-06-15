@@ -1,7 +1,7 @@
 # Basic command-line
 To find the ROS package
 
-- `rospack find roscpp`
+- ```rospack find roscpp```
 
 To change directory to ROS package
 
